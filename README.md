@@ -26,7 +26,7 @@ challenge my skills.</br>
 
 <h2>My Project</h2>
 <p align="left">
-    <a href="https://github.com/giaz231/FE-Ikuzports-CapstoneProject"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=giaz231&repo=FE-Ikuzports-CapstoneProject&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/giaz231/ikuzsport"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=giaz231&repo=ikuzsport&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/giaz231/Stayest"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=giaz231&repo=Stayest&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/giaz231/immersive-dashboard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=giaz231&repo=immersive-dashboard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/giaz231/koperasipbs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=giaz231&repo=koperasipbs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
